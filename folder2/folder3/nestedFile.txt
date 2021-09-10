@@ -1,0 +1,1 @@
+my path is /folder2/folder3/nestedFile.txt
